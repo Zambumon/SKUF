@@ -4,7 +4,7 @@
 
 ## Preface
 
-The Silicone Keyboard Universalised Feet project is an attempt to standarize the rubber feet used for custom mechanical keyboard projects. It has initially been envisioned by users Salvun, Soran, Wilba and Zambumon.
+The Silicone Keyboard Universalised Feet project is an attempt to standardize the rubber feet used for custom mechanical keyboard projects. It has initially been envisioned by users Salvun, Soran, Wilba and Zambumon.
 
 This project hosts the implemenation used by Salvun.
 
